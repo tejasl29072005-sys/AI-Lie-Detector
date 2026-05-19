@@ -80,5 +80,6 @@ streamlit run app.py
 This project is created for educational purposes to demonstrate basic Natural Language Processing and Machine Learning concepts.
 
 📬 Contact
+Linked in :https://www.linkedin.com/in/tejas-l-951a36313/
 
 Feel free to connect and give feedback!
